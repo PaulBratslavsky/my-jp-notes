@@ -1,1 +1,3 @@
-# my-jp-notes
+# My Jupyter Lab Notebook
+
+using `jupyter lab`
